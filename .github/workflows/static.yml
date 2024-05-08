@@ -38,6 +38,9 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
+      - name: Set repository language to JavaScript
+        run: echo "JavaScript" > .github/language
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
