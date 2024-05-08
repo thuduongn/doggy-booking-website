@@ -11,7 +11,7 @@ This repository contains the code for a doggy booking website. The website aims 
 - **Booking Button:** Navigate to the booking page to book doggy services.
 - **Contact Button:** Navigate to the contact page to get in touch with the service provider.
 - **Booking Page:**
-  - Date Selection: select the desired date for booking doggy services.
+  - Date Selection: Select the desired date for booking doggy services.
   - Compatibility with Pricing: The booking page ensures compatibility with different pricing options for the selected services.
 - **Contact Page:**
   - Leave Contact: Users can leave their contact information for the service provider to get in touch with them.
