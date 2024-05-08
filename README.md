@@ -1,5 +1,5 @@
 # Doggy Booking Website
-Click here to deploy: 
+Click here to deploy: https://thuduongn.github.io/doggy-booking-website/
 
 ## Description
 This repository contains the code for a doggy booking website. The website aims to provide an interactive platform for users to book doggy services and get in touch with the service provider.
